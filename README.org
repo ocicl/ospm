@@ -1,0 +1,10 @@
+* ospm
+
+OS package manager interface
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/atlas-engineer/ospm.git   |
+| commit  | 5537151  |
+| systems | ospm |
+|---------+-------------------------------------------|
+
