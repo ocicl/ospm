@@ -4,6 +4,6 @@ OS package manager interface
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/atlas-engineer/ospm.git |
-| commit  | 74623d8
+| commit  | 74623d8                                        |
 | systems | ospm                                           |
 |---------+------------------------------------------------|
